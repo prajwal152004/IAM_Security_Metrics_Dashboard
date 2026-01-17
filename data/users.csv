@@ -1,0 +1,6 @@
+user_id,name,department,role,privilege_level
+U001,Rahul,Finance,Finance_Admin,High
+U002,Anita,HR,HR_User,Low
+U003,Kiran,IT,IT_Admin,High
+U004,Sneha,Sales,Sales_User,Low
+U005,Arjun,Finance,Finance_User,Medium

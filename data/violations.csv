@@ -1,0 +1,4 @@
+user_id,violation_type,severity
+U001,Excessive Privilege,High
+U003,SoD Conflict,High
+U004,Dormant Account,Medium

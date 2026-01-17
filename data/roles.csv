@@ -1,0 +1,6 @@
+role,privilege_level
+Finance_Admin,High
+IT_Admin,High
+Finance_User,Medium
+HR_User,Low
+Sales_User,Low
